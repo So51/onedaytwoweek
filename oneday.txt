@@ -1,0 +1,6 @@
+function _йляхи(){
+  document.write("hello world . ")
+  
+}
+
+_йляхи()
